@@ -1,3 +1,5 @@
 Finalizando primeira aula de git
 
 Iniciando parte 2 
+
+Modificado por outro usuário
